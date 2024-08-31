@@ -1,3 +1,3 @@
-module simple-http-in-golang
+module github.com/fmo/simple-http-in-golang
 
 go 1.22
